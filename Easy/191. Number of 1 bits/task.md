@@ -7,13 +7,13 @@ __Given a positive integer n, write a function that returns the number of set bi
 
 __Example 1:__
 
-Input: n = 11
+> Input: n = 11
 
 Output: 3
 
 Explanation:
 
-The input binary string 1011 has a total of three set bits.
+> The input binary string 1011 has a total of three set bits.
 
 __Example 2:__
 
